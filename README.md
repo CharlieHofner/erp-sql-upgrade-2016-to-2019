@@ -3,8 +3,8 @@ Security-driven upgrade of Microsoft SQL Server 2016 to 2019 for a mission-criti
 
 # SQL Server Upgrade Project: Microsoft SQL Server 2016 to 2019 for ERP System
 
-**Project Owner/Author**: Charlie Hofner
-**LinkedIn**: [LinkedIn](https://www.linkedin.com/in/charlie-hofner/)
+**Project Owner/Author**: Charlie Hofner  
+**LinkedIn**: [LinkedIn](https://www.linkedin.com/in/charlie-hofner/)  
 
 ## Project Overview & Origin
 
