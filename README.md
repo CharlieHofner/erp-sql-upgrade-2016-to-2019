@@ -89,7 +89,3 @@ These installations were quick and straightforward.
 - Dev-first + snapshot + backup strategy delivers near-zero risk for database upgrades.
 - Removing snapshots after successful completion follows VMware best practices (reduces storage overhead and potential performance impact).
 - Consistent OS versions (Windows Server 2022 on both) simplified prerequisite and compatibility handling.
-
-## Reflection (Charlie Hofner)
-
-This was a textbook example of disciplined, low-risk change management on a critical system. Starting from a security scan finding, prioritizing it appropriately among other vulnerabilities, and executing with strong safeguards (snapshots + backups) ensured zero surprises. The staged approach, explicit testing sign-off, and quick ~1-hour production cutover demonstrated how preparation and coordination pay off. Cleaning up snapshots afterward kept the environment tidy. A solid win for both security and operational stability—exactly the kind of project that strengthens overall IT posture.
